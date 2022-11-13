@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "nadesiko3": "^3.3.78"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "run":"cnako3"
+  }
+  
+}
